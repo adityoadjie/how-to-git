@@ -56,3 +56,4 @@ Perintah tersebut digunakan untuk memeriksa adakah file yang sudah dimodifikasi.
 ` git push origin <nama_cabang> `
 Perintah tersebut digunakan untuk menyelaraskan local repository dengan remote repository. Umumnya kita menggunakan `master` sebagai pengganti `<nama cabang>`, namun setelah mempertimbangkan bahwa push ke master bisa menyebabkan konflik, kita dapat menentukan branch baru. Branch baru dapat diakses oleh pihak lain _hanya_ ketika branch tersebut sudah di-push ke remote repository.
 
+
